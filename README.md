@@ -17,6 +17,7 @@ brew install colima
 brew install docker docker-compose docker-Buildx
 brew install git
 brew install neovim
+brew install tmux
 brew install zsh
 brew install --cask brave-browser
 brew install --cask discord
@@ -76,6 +77,10 @@ exec zsh
 brew install koekeishiya/formulae/skhd
 skhd --start-service
 ```
+
+# Tmux
+
+[Tmux Plugin Manager](https://github.com/tmux-plugins/tpm?tab=readme-ov-file#installation)
 
 # Docker
 
